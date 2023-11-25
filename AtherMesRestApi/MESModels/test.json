@@ -1,0 +1,6 @@
+﻿namespace AtherMesRestApi.MESModels
+{
+    public class test
+    {
+    }
+}
